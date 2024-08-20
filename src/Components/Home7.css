@@ -1,0 +1,53 @@
+.sec7cont{
+    display: flex;
+    flex-direction: column;
+    column-gap: 18%;
+    margin-top: 8%;
+  }
+  
+  
+.sec7_cont {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 36px;
+    margin-top: 30px;
+  }
+  
+  .sec7_cont1 {
+    border: 1px solid black;
+    width: 14%;
+    background-color: white;
+    border: 1px solid #d0d0d0;
+    padding: 0px 20px;
+    padding-bottom: 20px;
+  }
+  
+  .sec7cont1_img1 {
+    max-width: 100%;
+  }
+  
+  .sec7cont1_img1 img {
+    width: 90%;
+    margin-left: 10px;
+  
+  }
+  
+  .sec7cont1_txt {
+    margin-left: 10px;
+  }
+  
+  .sec7cont_price {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .cont7_star {
+    margin-top: 10px;
+  }
+  
+  .sec7cont_price {
+    margin-top: 10px;
+  }
+  
